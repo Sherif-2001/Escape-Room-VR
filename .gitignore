@@ -1,0 +1,16 @@
+# Unity generated
+Library/
+Temp/
+obj/
+Build/
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+*.log
+
+# Build artifacts
+*.apk
+*.apk.meta
+*.unitypackage
+*.unitypackage.meta
