@@ -1,16 +1,47 @@
-# Unity generated
-Library/
-Temp/
-obj/
-Build/
-*.csproj
-*.unityproj
-*.sln
-*.userprefs
-*.log
+# Editor-specific files
+*.asset
+*.cs.meta
+*.prefab.meta
+*.unity.meta
+*.mat.meta
+*.physicsMaterial2D.meta
+*.physicMaterial.meta
+*.asset.meta
 
-# Build artifacts
-*.apk
-*.apk.meta
-*.unitypackage
-*.unitypackage.meta
+# Generated cache files
+*.pidb
+*.sln.meta
+*.suo
+*.user
+*.userprefs.meta
+*.vshost.exe
+*.vspscc
+*.vssscc
+
+# 3D modeling files
+*.fbx
+*.fbx.meta
+*.obj
+*.obj.meta
+*.blend
+*.blend1
+*.blend2
+*.max
+*.max.meta
+
+# Audio files
+*.wav
+*.mp3
+*.ogg
+*.aif
+*.aiff
+
+# Video files
+*.avi
+*.mp4
+*.mov
+*.wmv
+
+# Other files to ignore
+.DS_Store
+Thumbs.db
